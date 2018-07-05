@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1><MadCap:concept term="ExtraTopics" />砻קยด6ตว融</h1>
+        <p>砻קยด7ตว融</p>
+        <div class="background" MadCap:conditions="General.Online">
+            <div class="transbox" style="float: left;clear: both;vertical-align: text-top;">
+                <p>砻קยด8ตว融</p>
+            </div>
+        </div>
+        <p>砻קยด9ตว融</p>
+        <div class="ImagesFloatRight">
+            <p>
+                <img src="../Resources/Images/surf2.png" class="MaxWidth75Percent" />
+            </p>
+            <p class="Figure" MadCap:conditions="General.Print">砻קยด10ตว融</p>
+        </div>
+        <p><MadCap:keyword term="Image:positioned right" />砻קยด11ตว融</p>
+        <p>砻קยด12ตว融</p>
+        <p MadCap:conditions="PrintGuides.PDFGuideA">砻קยด13ตว融</p>
+        <blockquote class="style1"><span>砻קยด14ตว融</span></blockquote>
+        <p>砻קยด15ตว融</p>
+        <p>砻קยด16ตว融</p>
+        <p MadCap:conditions="General.Online"><MadCap:conceptLink term="ExtraTopics" />砻קยด17ตว融</p>
+    </body>
+</html>

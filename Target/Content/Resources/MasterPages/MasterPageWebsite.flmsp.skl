@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="9" MadCap:lastHeight="359" MadCap:lastWidth="1024" xml:space="preserve">
+    <head>
+        <link href="../TableStyles/SimpleDarkBackground.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <MadCap:breadcrumbsProxy />
+        <MadCap:bodyProxy />
+        <div class="FooterTable">
+            <table style="caption-side: top;width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../TableStyles/SimpleDarkBackground.css');" cellspacing="0" class="TableStyle-SimpleDarkBackground">
+                <col style="width: 50%;" class="Column-Column1" />
+                <col class="Column-Column1" style="width: 50%;" />
+                <tbody>
+                    <tr class="Body-Row1">
+                        <td class="BodyB-Column1-Row1">
+                            <MadCap:dropDown>
+                                <MadCap:dropDownHead>
+                                    <MadCap:dropDownHotspot class="Footer">砻קยด1ตว融</MadCap:dropDownHotspot>
+                                </MadCap:dropDownHead>
+                                <MadCap:dropDownBody>
+                                    <p style="text-align: left;margin-top: 0;"><a href="https://twitter.com/#!/MadCapDocTeam" class="Image" target="_blank"><img src="../Images/twitter.png" class="NoThumbnailHyperlinkedImage" /></a><a href="http://www.facebook.com/madcapdocteam" class="Image" target="_blank"><img src="../Images/facebook.png" class="NoThumbnailHyperlinkedImage" /></a>
+                                    </p>
+                                </MadCap:dropDownBody>
+                            </MadCap:dropDown>
+                            <MadCap:dropDown>
+                                <MadCap:dropDownHead>
+                                    <MadCap:dropDownHotspot class="Footer">砻קยด2ตว融</MadCap:dropDownHotspot>
+                                </MadCap:dropDownHead>
+                                <MadCap:dropDownBody>
+                                    <p class="Footer2"><img src="../Images/pdf_icon_black_background.png" class="OnlineFooterPDFIcon">
+                                        </img>砻קยด3ตว融</p>
+                                    <p class="Footer2"><img src="../Images/movie_play_black_background.png" class="OnlineFooterPDFIcon" />砻קยด4ตว融</p>
+                                </MadCap:dropDownBody>
+                            </MadCap:dropDown>
+                            <MadCap:dropDown>
+                                <MadCap:dropDownHead>
+                                    <MadCap:dropDownHotspot class="Footer">砻קยด5ตว融</MadCap:dropDownHotspot>
+                                </MadCap:dropDownHead>
+                                <MadCap:dropDownBody>
+                                    <p class="FooterTopicMaster">砻קยด6ตว融</p>
+                                </MadCap:dropDownBody>
+                            </MadCap:dropDown>
+                        </td>
+                        <td class="BodyA-Column1-Row1">
+                            <MadCap:dropDown>
+                                <MadCap:dropDownHead>
+                                    <MadCap:dropDownHotspot class="Footer">砻קยด7ตว融</MadCap:dropDownHotspot>
+                                </MadCap:dropDownHead>
+                                <MadCap:dropDownBody>
+                                    <p class="FooterTopicMaster"><a href="http://madcapsoftware.com/support/" target="_blank" class="footermasterlarge">砻קยด8ตว融</a></p>
+                                </MadCap:dropDownBody>
+                            </MadCap:dropDown>
+                            <MadCap:dropDown>
+                                <MadCap:dropDownHead>
+                                    <MadCap:dropDownHotspot class="Footer">砻קยด9ตว融</MadCap:dropDownHotspot>
+                                </MadCap:dropDownHead>
+                                <MadCap:dropDownBody>
+                                    <p class="FooterTopicMaster"><MadCap:variable name="Other.CompanyName" />
+                                    </p>
+                                    <p class="FooterTopicMaster"><MadCap:variable name="Other.StreetAddress" />
+                                    </p>
+                                    <p class="FooterTopicMaster"><MadCap:variable name="Other.CityStateZip" />
+                                    </p>
+                                    <p class="FooterTopicMaster"><MadCap:variable name="Other.Phone" />
+                                    </p>
+                                </MadCap:dropDownBody>
+                            </MadCap:dropDown>
+                            <MadCap:dropDown>
+                                <MadCap:dropDownHead>
+                                    <MadCap:dropDownHotspot class="Footer">砻קยด10ตว融</MadCap:dropDownHotspot>
+                                </MadCap:dropDownHead>
+                                <MadCap:dropDownBody>
+                                    <p class="FooterTopicMaster">砻קยด11ตว融</p>
+                                    <p class="FooterTopicMaster">砻קยด12ตว融</p>
+                                </MadCap:dropDownBody>
+                            </MadCap:dropDown>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>

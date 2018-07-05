@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1><MadCap:concept term="Introduction" />砻קยด5ตว融</h1>
+        <p>砻קยด6ตว融<MadCap:keyword term="Footnote" /></p>
+        <div class="ImagesFloatLeft">
+            <p>
+                <img src="../Resources/Images/surf4.png" class="MaxWidth50Percent" />
+            </p>
+            <p class="Figure" MadCap:conditions="General.Print">砻קยด7ตว融</p>
+        </div>
+        <p>砻קยด8ตว融</p>
+        <p>砻קยด9ตว融<MadCap:keyword term="Image:positioned left" /></p>
+        <p MadCap:conditions="General.Online"><MadCap:conceptLink term="Introduction" />砻קยด10ตว融</p>
+    </body>
+</html>

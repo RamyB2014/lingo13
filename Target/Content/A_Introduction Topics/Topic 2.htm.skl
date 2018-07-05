@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="731" MadCap:lastWidth="1063" xml:space="preserve">
+    <head>
+        <link href="../Resources/TableStyles/BasicAlternateLightBlueRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h1><MadCap:concept term="Introduction" />砻קยด5ตว融</h1>
+        <p>砻קยด6ตว融</p>
+        <h2>砻קยด7ตว融</h2>
+        <p>砻קยด8ตว融</p>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../Resources/TableStyles/BasicAlternateLightBlueRows.css');" class="TableStyle-BasicAlternateLightBlueRows" cellspacing="0">
+            <col class="Column-Column1" />
+            <col class="Column-Column1" />
+            <thead>
+                <tr class="Head-Header1">
+                    <th class="HeadE-Column1-Header1">
+                        <p class="TableTextHead"><MadCap:keyword term="Table:patterned rows" />砻קยด9ตว融</p>
+                    </th>
+                    <th class="HeadD-Column1-Header1">
+                        <p class="TableTextHead">砻קยด10ตว融</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="Body-BlueRows">
+                    <td class="BodyE-Column1-BlueRows">
+                        <p>砻קยด11ตว融</p>
+                        <p>砻קยด12ตว融</p>
+                    </td>
+                    <td class="BodyD-Column1-BlueRows">
+                        <p class="TableText">砻קยด13ตว融</p>
+                        <p class="note">砻קยด14ตว融</p>
+                    </td>
+                </tr>
+                <tr class="Body-WhiteRows">
+                    <td class="BodyE-Column1-WhiteRows">
+                        <p class="TableText">砻קยด15ตว融</p>
+                    </td>
+                    <td class="BodyD-Column1-WhiteRows">
+                        <p class="TableText">砻קยด16ตว融</p>
+                    </td>
+                </tr>
+                <tr class="Body-BlueRows">
+                    <td class="BodyE-Column1-BlueRows">
+                        <p class="TableText">砻קยด17ตว融</p>
+                        <p class="ExampleHead"><MadCap:keyword term="Example:one paragraph" />砻קยด18ตว融</p>
+                        <p class="Example">砻קยด19ตว融</p>
+                    </td>
+                    <td class="BodyD-Column1-BlueRows">
+                        <p class="TableText">砻קยด20ตว融</p>
+                    </td>
+                </tr>
+                <tr class="Body-WhiteRows">
+                    <td class="BodyB-Column1-WhiteRows">砻קยด21ตว融</td>
+                    <td class="BodyA-Column1-WhiteRows">砻קยด22ตว融</td>
+                </tr>
+            </tbody>
+        </table>
+        <p MadCap:conditions="General.Online"><MadCap:conceptLink term="Introduction" />砻קยด23ตว融</p>
+    </body>
+</html>

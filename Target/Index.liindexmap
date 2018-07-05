@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>Blockquote</Key>
+  <OldValue>Blockquote</OldValue>
+  <NewValue>Blockquote</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Caption</Key>
+  <OldValue>Caption</OldValue>
+  <NewValue>Caption</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>figure</Key>
+  <OldValue>figure</OldValue>
+  <NewValue>figure</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Columns</Key>
+  <OldValue>Columns</OldValue>
+  <NewValue>Columns</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>paragraphs</Key>
+  <OldValue>paragraphs</OldValue>
+  <NewValue>paragraphs</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Condition</Key>
+  <OldValue>Condition</OldValue>
+  <NewValue>Condition</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>character level</Key>
+  <OldValue>character level</OldValue>
+  <NewValue>character level</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>drop-down</Key>
+  <OldValue>drop-down</OldValue>
+  <NewValue>drop-down</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>list</Key>
+  <OldValue>list</OldValue>
+  <NewValue>list</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>paragraph level</Key>
+  <OldValue>paragraph level</OldValue>
+  <NewValue>paragraph level</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>snippet</Key>
+  <OldValue>snippet</OldValue>
+  <NewValue>snippet</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Cross-reference</Key>
+  <OldValue>Cross-reference</OldValue>
+  <NewValue>Cross-reference</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Div tag</Key>
+  <OldValue>Div tag</OldValue>
+  <NewValue>Div tag</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Drop-down</Key>
+  <OldValue>Drop-down</OldValue>
+  <NewValue>Drop-down</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>conditioned</Key>
+  <OldValue>conditioned</OldValue>
+  <NewValue>conditioned</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Example</Key>
+  <OldValue>Example</OldValue>
+  <NewValue>Example</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>multiple paragraphs</Key>
+  <OldValue>multiple paragraphs</OldValue>
+  <NewValue>multiple paragraphs</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>one paragraph</Key>
+  <OldValue>one paragraph</OldValue>
+  <NewValue>one paragraph</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Figure caption</Key>
+  <OldValue>Figure caption</OldValue>
+  <NewValue>Figure caption</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Footnote</Key>
+  <OldValue>Footnote</OldValue>
+  <NewValue>Footnote</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>How to</Key>
+  <OldValue>How to</OldValue>
+  <NewValue>How to</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>in a drop-down</Key>
+  <OldValue>in a drop-down</OldValue>
+  <NewValue>in a drop-down</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>not in drop-down</Key>
+  <OldValue>not in drop-down</OldValue>
+  <NewValue>not in drop-down</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Image</Key>
+  <OldValue>Image</OldValue>
+  <NewValue>Image</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>positioned left</Key>
+  <OldValue>positioned left</OldValue>
+  <NewValue>positioned left</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>positioned right</Key>
+  <OldValue>positioned right</OldValue>
+  <NewValue>positioned right</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>under list item</Key>
+  <OldValue>under list item</OldValue>
+  <NewValue>under list item</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>List</Key>
+  <OldValue>List</OldValue>
+  <NewValue>List</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>condition</Key>
+  <OldValue>condition</OldValue>
+  <NewValue>condition</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>multi-level bullets</Key>
+  <OldValue>multi-level bullets</OldValue>
+  <NewValue>multi-level bullets</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>multi-level numbers</Key>
+  <OldValue>multi-level numbers</OldValue>
+  <NewValue>multi-level numbers</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>multi-level numbers and bullets</Key>
+  <OldValue>multi-level numbers and bullets</OldValue>
+  <NewValue>multi-level numbers and bullets</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>numbers and multi-level bullets</Key>
+  <OldValue>numbers and multi-level bullets</OldValue>
+  <NewValue>numbers and multi-level bullets</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>simple bullets</Key>
+  <OldValue>simple bullets</OldValue>
+  <NewValue>simple bullets</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>simple numbers</Key>
+  <OldValue>simple numbers</OldValue>
+  <NewValue>simple numbers</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Note</Key>
+  <OldValue>Note</OldValue>
+  <NewValue>Note</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Paragraphs</Key>
+  <OldValue>Paragraphs</OldValue>
+  <NewValue>Paragraphs</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>columns</Key>
+  <OldValue>columns</OldValue>
+  <NewValue>columns</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Picture</Key>
+  <OldValue>Picture</OldValue>
+  <NewValue>Picture</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Quote</Key>
+  <OldValue>Quote</OldValue>
+  <NewValue>Quote</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>See Also link</Key>
+  <OldValue>See Also link</OldValue>
+  <NewValue>See Also link</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Snippet</Key>
+  <OldValue>Snippet</OldValue>
+  <NewValue>Snippet</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>block</Key>
+  <OldValue>block</OldValue>
+  <NewValue>block</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>chapter beginning</Key>
+  <OldValue>chapter beginning</OldValue>
+  <NewValue>chapter beginning</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>inline</Key>
+  <OldValue>inline</OldValue>
+  <NewValue>inline</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>table</Key>
+  <OldValue>table</OldValue>
+  <NewValue>table</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Span tag</Key>
+  <OldValue>Span tag</OldValue>
+  <NewValue>Span tag</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Table</Key>
+  <OldValue>Table</OldValue>
+  <NewValue>Table</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>patterned rows</Key>
+  <OldValue>patterned rows</OldValue>
+  <NewValue>patterned rows</NewValue>
+</Entry>
+</StringMap>

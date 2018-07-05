@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap NeedsRefreshCorrection="false">
+    <Entry Status="Untranslated">
+        <Key>Blockquote</Key>
+        <OldValue>Blockquote</OldValue>
+        <NewValue>砻קยด1ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Caption</Key>
+        <OldValue>Caption</OldValue>
+        <NewValue>砻קยด2ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>figure</Key>
+        <OldValue>figure</OldValue>
+        <NewValue>砻קยด3ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Columns</Key>
+        <OldValue>Columns</OldValue>
+        <NewValue>砻קยด4ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>paragraphs</Key>
+        <OldValue>paragraphs</OldValue>
+        <NewValue>砻קยด5ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Condition</Key>
+        <OldValue>Condition</OldValue>
+        <NewValue>砻קยด6ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>character level</Key>
+        <OldValue>character level</OldValue>
+        <NewValue>砻קยด7ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>drop-down</Key>
+        <OldValue>drop-down</OldValue>
+        <NewValue>砻קยด8ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>list</Key>
+        <OldValue>list</OldValue>
+        <NewValue>砻קยด9ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>paragraph level</Key>
+        <OldValue>paragraph level</OldValue>
+        <NewValue>砻קยด10ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>snippet</Key>
+        <OldValue>snippet</OldValue>
+        <NewValue>砻קยด11ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Cross-reference</Key>
+        <OldValue>Cross-reference</OldValue>
+        <NewValue>砻קยด12ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Div tag</Key>
+        <OldValue>Div tag</OldValue>
+        <NewValue>砻קยด13ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Drop-down</Key>
+        <OldValue>Drop-down</OldValue>
+        <NewValue>砻קยด14ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>conditioned</Key>
+        <OldValue>conditioned</OldValue>
+        <NewValue>砻קยด15ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Example</Key>
+        <OldValue>Example</OldValue>
+        <NewValue>砻קยด16ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>multiple paragraphs</Key>
+        <OldValue>multiple paragraphs</OldValue>
+        <NewValue>砻קยด17ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>one paragraph</Key>
+        <OldValue>one paragraph</OldValue>
+        <NewValue>砻קยด18ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Figure caption</Key>
+        <OldValue>Figure caption</OldValue>
+        <NewValue>砻קยด19ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Footnote</Key>
+        <OldValue>Footnote</OldValue>
+        <NewValue>砻קยด20ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>How to</Key>
+        <OldValue>How to</OldValue>
+        <NewValue>砻קยด21ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>in a drop-down</Key>
+        <OldValue>in a drop-down</OldValue>
+        <NewValue>砻קยด22ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>not in drop-down</Key>
+        <OldValue>not in drop-down</OldValue>
+        <NewValue>砻קยด23ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Image</Key>
+        <OldValue>Image</OldValue>
+        <NewValue>砻קยด24ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>positioned left</Key>
+        <OldValue>positioned left</OldValue>
+        <NewValue>砻קยด25ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>positioned right</Key>
+        <OldValue>positioned right</OldValue>
+        <NewValue>砻קยด26ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>under list item</Key>
+        <OldValue>under list item</OldValue>
+        <NewValue>砻קยด27ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>List</Key>
+        <OldValue>List</OldValue>
+        <NewValue>砻קยด28ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>condition</Key>
+        <OldValue>condition</OldValue>
+        <NewValue>砻קยด29ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>multi-level bullets</Key>
+        <OldValue>multi-level bullets</OldValue>
+        <NewValue>砻קยด30ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>multi-level numbers</Key>
+        <OldValue>multi-level numbers</OldValue>
+        <NewValue>砻קยด31ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>multi-level numbers and bullets</Key>
+        <OldValue>multi-level numbers and bullets</OldValue>
+        <NewValue>砻קยด32ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>numbers and multi-level bullets</Key>
+        <OldValue>numbers and multi-level bullets</OldValue>
+        <NewValue>砻קยด33ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>simple bullets</Key>
+        <OldValue>simple bullets</OldValue>
+        <NewValue>砻קยด34ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>simple numbers</Key>
+        <OldValue>simple numbers</OldValue>
+        <NewValue>砻קยด35ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Note</Key>
+        <OldValue>Note</OldValue>
+        <NewValue>砻קยด36ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Paragraphs</Key>
+        <OldValue>Paragraphs</OldValue>
+        <NewValue>砻קยด37ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>columns</Key>
+        <OldValue>columns</OldValue>
+        <NewValue>砻קยด38ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Picture</Key>
+        <OldValue>Picture</OldValue>
+        <NewValue>砻קยด39ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Quote</Key>
+        <OldValue>Quote</OldValue>
+        <NewValue>砻קยด40ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>See Also link</Key>
+        <OldValue>See Also link</OldValue>
+        <NewValue>砻קยด41ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Snippet</Key>
+        <OldValue>Snippet</OldValue>
+        <NewValue>砻קยด42ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>block</Key>
+        <OldValue>block</OldValue>
+        <NewValue>砻קยด43ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>chapter beginning</Key>
+        <OldValue>chapter beginning</OldValue>
+        <NewValue>砻קยด44ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>inline</Key>
+        <OldValue>inline</OldValue>
+        <NewValue>砻קยด45ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>table</Key>
+        <OldValue>table</OldValue>
+        <NewValue>砻קยด46ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Span tag</Key>
+        <OldValue>Span tag</OldValue>
+        <NewValue>砻קยด47ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Table</Key>
+        <OldValue>Table</OldValue>
+        <NewValue>砻קยด48ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>patterned rows</Key>
+        <OldValue>patterned rows</OldValue>
+        <NewValue>砻קยด49ตว融</NewValue>
+    </Entry>
+</StringMap>

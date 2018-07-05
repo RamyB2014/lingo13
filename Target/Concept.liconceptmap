@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>ExtraTopics</Key>
+  <OldValue>ExtraTopics</OldValue>
+  <NewValue>ExtraTopics</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Introduction</Key>
+  <OldValue>Introduction</OldValue>
+  <NewValue>Introduction</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>OtherTopics</Key>
+  <OldValue>OtherTopics</OldValue>
+  <NewValue>OtherTopics</NewValue>
+</Entry>
+</StringMap>

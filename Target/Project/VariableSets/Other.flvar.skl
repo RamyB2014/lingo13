@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="">
+    <Variable Name="Year" OriginalName="Year">砻קยด1ตว融</Variable>
+    <Variable Name="Phone" Comment="" Definition="Some text">砻קยด2ตว融</Variable>
+    <Variable Name="CompanyName" Comment="" Definition="Some text">砻קยด3ตว融</Variable>
+    <Variable Name="StreetAddress" Comment="" Definition="Some text" OriginalName="StreetAddress">砻קยด4ตว融</Variable>
+    <Variable Name="CityStateZip" Comment="" Definition="Some text">砻קยด5ตว融</Variable>
+</CatapultVariableSet>
